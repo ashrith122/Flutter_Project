@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420926794192",
+    "project_id": "cobalt-sector-296918",
+    "storage_bucket": "cobalt-sector-296918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420926794192:android:6cadd40b43933089d971d5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420926794192-evvoda4mmm80h5418i5q879sssbipdak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhVQZnU3vKB4MadX50e-5GrZcGnUV-LSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420926794192-evvoda4mmm80h5418i5q879sssbipdak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
